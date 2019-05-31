@@ -1,0 +1,14 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "sample des",
+  "main": "index.js",
+  "scripts": {
+    "test": "ak"
+  },
+  "author": "akthar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
